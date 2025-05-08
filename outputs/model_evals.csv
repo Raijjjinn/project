@@ -1,0 +1,4 @@
+test, populations, population_size, niterations, random_state, procs, deterministic, parallelism, r2, mae, rmse
+outputs/20250503_224212_5kTnhb, 5, 50, 100, 42, 4, None, None, 0.7371, 0.0475, 0.0686
+outputs/20250507_203453_6Th53a, 5, 100, 40, 42, 6, True, serial, 0.8261, 0.0415, 0.0558
+, 5, 100, 80, 42, 6, True, serial, 
